@@ -18,10 +18,10 @@ end
 
 
 % Paths
-dataset_path = 'datasets/DSD100/';
-magnitudes_path = strcat('phase-hpss/magnitude_spectrograms/setting',int2str(stft_setting),'/');
-audio_path = strcat('phase-hpss/audio_files/setting',int2str(stft_setting),'/');
-metrics_path = 'phase-hpss/metrics/';
+dataset_path = 'dataset/';
+magnitudes_path = strcat('magnitude_spectrograms/setting',int2str(stft_setting),'/');
+audio_path = strcat('audio_files/setting',int2str(stft_setting),'/');
+metrics_path = 'metrics/';
 
 % Algorithms
 algos = {'MTN-mixphase','MTN-PUiter','KAM'};
