@@ -1,4 +1,4 @@
-# Phase recovery with MaD TwinNet GitHub Repository
+# Harmonic/percussive source separation with MaD TwinNet and phase recovery GitHub Repository
 
 Here, you will find the code related harmonic/percussive source separation (HPSS) with MaD TwinNet and phase recovery.
 
