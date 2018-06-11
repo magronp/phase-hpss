@@ -2,7 +2,7 @@
 
 Here, you will find the code related harmonic/percussive source separation (HPSS) with MaD TwinNet and phase recovery.
 
-If you use any of the things existing in this repository, please cite the [corresponding paper](https://hal.archives-ouvertes.fr/hal-01741278). 
+If you use any of the things existing in this repository, please cite the [corresponding paper](https://hal.archives-ouvertes.fr/hal-01812225). 
 
 
 ## How to use
