@@ -15,7 +15,7 @@ If you use this dataset, you will end up with the proper directory structure and
 
 If you want to use a different dataset, then you have two options: 
 - either you format your file names and directory structure to match the one from DSD100;
-- or you modify the file reading function `getdata_singing_sep` to suit your needs.
+- or you modify the file reading function `getdata_hpss` to suit your needs.
 
 
 ### Magnitude spectrograms
